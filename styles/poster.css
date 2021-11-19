@@ -60,4 +60,15 @@
     z-index: 2;
     top: 669px;
     left: 300px;
+    animation: balls 3s infinite;
+}
+@keyframes balls{
+    from {
+        width: 400px;
+        height: 700px;
+    }
+    to {
+        width: 400px;
+        height: 1200px;
+    }
 }
