@@ -97,3 +97,9 @@ body {
     font-family: 'Courier New';
     text-align: center;
 }
+.navigation:hover {
+    font-size: 10mm;
+    color: rgb(64, 255, 39);
+    font-family: 'Courier New';
+    text-align: center;
+}
