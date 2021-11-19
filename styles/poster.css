@@ -52,12 +52,12 @@
     width: 700px;
     z-index: 2;
     top: 69px;
-    left: 15vw;
+    left: 100px;
 }
 .balls {
     position: absolute;
     width: 400px;
     z-index: 2;
     top: 650px;
-    left: 25vw;
+    left: 150px;
 }
