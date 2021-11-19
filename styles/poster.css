@@ -56,19 +56,17 @@
 }
 .balls {
     position: absolute;
-    width: 400px;
     z-index: 2;
     top: 669px;
     left: 300px;
-    animation: balls 3s infinite;
+    width: 100%;
+    animation: balls 3s infinite alternate;
 }
-@keyframes balls{
+@keyframes balls {
     from {
-        width: 400px;
-        height: 700px;
+        height: 100%;
     }
     to {
-        width: 400px;
-        height: 1200px;
+        height: 200%;
     }
 }
