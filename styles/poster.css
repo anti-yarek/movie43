@@ -37,7 +37,7 @@
     z-index: 1;
     background: rgb(228, 22, 15);
 }
-.ssanina {
+.headline {
     position: absolute;
     width: 800px;
     height: 300px;
@@ -53,4 +53,11 @@
     z-index: 2;
     top: 69px;
     left: 15vw;
+}
+.balls {
+    position: absolute;
+    width: 400px;
+    z-index: 2;
+    top: 569px;
+    left: 20vw;
 }
