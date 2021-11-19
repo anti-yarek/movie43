@@ -91,21 +91,3 @@ body {
     box-shadow: 69px 69px 69px rgb(6, 240, 6);
     margin-bottom: 30px;
 }
-.govno {
-    font-size: 10mm;
-    color: rgb(255, 39, 75);
-    font-family: 'Courier New';
-    text-align: center;
-}
-.govno a:visited {
-    text-decoration: none;
-}
-.govno a:hover {
-    text-decoration: none;
-}
-.govno a:active {
-    text-decoration: none;
-}
-.govno a:link {
-    text-decoration: none;
-}
