@@ -91,17 +91,6 @@ body {
     box-shadow: 69px 69px 69px rgb(6, 240, 6);
     margin-bottom: 30px;
 }
-nav {
-    font-size: 10mm;
-    color: rgb(255, 39, 75);
-    font-family: 'Courier New';
-    text-align: center;
-    text-decoration: none;
-}
-nav:hover {
-    font-size: 10mm;
-    color: rgb(64, 255, 39);
-    font-family: 'Courier New';
-    text-align: center;
-    text-decoration: none;
+.govno a{
+text-decoration: none;
 }
