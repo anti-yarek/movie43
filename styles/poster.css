@@ -50,9 +50,7 @@
 .huyjackman {
     position: absolute;
     width: 700px;
-    height: 600px;
     z-index: 2;
-    background: purple;
     top: 69px;
     left: 15vw;
 }
