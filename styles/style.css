@@ -91,6 +91,9 @@ body {
     box-shadow: 69px 69px 69px rgb(6, 240, 6);
     margin-bottom: 30px;
 }
+.govno a {
+    text-decoration: none;
+}
 .govno a:visited {
     text-decoration: none;
 }
