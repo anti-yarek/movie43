@@ -1,27 +1,40 @@
 .govno a:visited {
     text-decoration: none;
+    font-size: 10mm;
+    color: rgb(194, 27, 27);
+    font-family: 'Courier New';
+    padding: 20px 20px 20px 20px;
 }
 .govno a:hover {
     text-decoration: none;
+    font-size: 10mm;
+    color: rgb(35, 224, 51);
+    font-family: 'Courier New';
+    padding: 20px 20px 20px 20px;
 }
 .govno a:active {
     text-decoration: none;
+    font-size: 10mm;
+    color: rgb(48, 35, 224);
+    font-family: 'Courier New';
+    padding: 20px 20px 20px 20px;
 }
 .govno a:link {
     text-decoration: none;
+    font-size: 10mm;
+    color: rgb(224, 35, 192);
+    font-family: 'Courier New';
+    padding: 20px 20px 20px 20px;
 }
 .wrapper {
     position: relative;
 }
 .background {
     position: relative;
-    width: 800px;
-    height: 500px;
-    border: orchid;
-    margin-top: 50px;
-    margin-left: 30px;
+    width: 1920px;
+    height: 1080px;
     z-index: 1;
-    background: red;
+    background: rgb(228, 22, 15);
 }
 .greenbox {
     position: absolute;
@@ -39,6 +52,6 @@
     height: 600px;
     z-index: 2;
     background: purple;
-    top: -69px;
+    top: 69px;
     left: 15vw;
 }
