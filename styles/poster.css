@@ -1,5 +1,6 @@
 .govno {
-    padding: 20px 20px 20px 20px;
+    padding-right: 20px;
+    margin: 20px 20px 20px 20px;
 }
 .govno a:visited {
     text-decoration: none;
