@@ -22,10 +22,11 @@
 .govno a:link {
     text-decoration: none;
     font-size: 10mm;
-    color: rgb(224, 35, 192);
+    color: rgb(238, 215, 12);
     font-family: 'Courier New';
     padding: 20px 20px 20px 20px;
 }
+
 .wrapper {
     position: relative;
 }
