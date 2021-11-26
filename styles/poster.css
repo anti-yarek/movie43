@@ -60,6 +60,9 @@
     top: 669px;
     left: 300px;
     width: 100%;
+   
+}
+.balls img {
     animation: balls 3s infinite alternate;
 }
 @keyframes balls {
