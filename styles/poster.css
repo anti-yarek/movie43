@@ -27,7 +27,9 @@
     font-family: 'Courier New';
 }
 
-
+.rapper {
+    position: relative;
+}
 .dno {
     position: relative;
     width: 1920px;
